@@ -1,4 +1,5 @@
 ## Modal & Menu Slider
+[DEMO LINK](https://mishtal-andrii.github.io/modal-menu-slider/)
 
 Simple landing page with sliding menu and modal
 
